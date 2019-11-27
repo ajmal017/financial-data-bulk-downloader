@@ -16,6 +16,12 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 import time
 
+# downloadIndicators.py
+# This is the file where all of the main functions are written. See below for
+# specific process details.
+
+# Establishing ssl connection to download commodities data. Then writing to csv files.
+
 
 def download_commodities_data():
 
@@ -34,6 +40,9 @@ def download_commodities_data():
                 outfile.write(r.content)
                 print(out_path, str(outfile))
 
+# Using pyBEA to gather data from Boureau of Economics  Analysis.
+# See pyBea for details: https://github.com/davidrpugh/pyBEA
+
 
 def get_BEA_data(path):
 
@@ -50,6 +59,10 @@ def get_BEA_data(path):
     table = pd.concat([item for item in dataframes], axis=1)
 
     table.to_csv(path)
+
+# Main function which consists in most of the heavy downloading processing.
+# Ssl connection establishment -> Download all necessary files from table links
+# -> Unzipping/converting where needed -> Updload to drive -> Update json files with new links.
 
 
 def main():

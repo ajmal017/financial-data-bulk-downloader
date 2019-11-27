@@ -3,6 +3,10 @@ import json
 import os
 from urllib import request
 
+# Post-request function.
+# Function to dump data in json file. This is used across the application
+# multiple times.
+
 
 def post_request(url, json_query, file_output):
     with open(json_query) as json_file:
