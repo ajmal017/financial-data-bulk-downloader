@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "update-macro-indicators",
+  "private_key_id": "3a86604dce58616bfe0ffbb263039cb3c9a24559",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQChJwYobby6TYkB\nWGBa2i06BRCoyDifQ6RpTyBp4wuzO1Pt8/qBL8IJFeQVPpRkug2HVVeuoPQFjjHT\n+WAZXMByWhJzbTKeDXOR4WU6vinVnsQ9BjUV9D9noiREDu4paRoZFKx8e5+IMs0F\ngWuiCLLknSOwFocBGFy1fjvCTIRiXOb4WE2amsQyd4dh/IiIp+/iWe9VyBUjh1Ae\nBgLBo/PjGDSpNxhn8u/9g3e01Yml98C109MoMucm+47PavrBv+I83jDTdQYZ6mCg\nMTVQaScDJumM1ZqD7T0Kl1c6Iz/1dmzFH0uRkBnf1TxbMnmu8bi+jqHdP7Yf71bh\nj4OfeHupAgMBAAECggEAB9ap2EQUMrysPhZCI5Eqs4CFEayhgm+sGto4MaZTTp3D\nZJbiN6/uwHnh3P2tAqRBHbTTPcGC9RU4S778w2cNTlKexKIKXQE6/pzHy35t8v/U\nvEIlyWJWxi/vEydlwrpjxFYK2Mg7l4ifC9ZCecByESgqkPlbijxY4BQajIYjx1P5\nPhX3zVsvYOctGrZ+GKY6ixDv3TQybccEjqyistW58vZpyME79rA7AvHzdEr3u/zP\ncWA61EjIIPPhzEzC5tT9c51N+jhGX6klMcTTm48QFXHNXEwUU22vasYu6MAcywKO\nFT2OlgDJWXDJRZ0LkxE0pvadlzyftx5DoPgHc/J9XQKBgQDOUXPPB5ks8wQGzrAg\nAVGTVx/QqykjiIMoaUIqSQxdF/DyxxcnvsmMzNqGukvlwkscwj/SVeiy0F6ewiRz\ng2WX5XSfEDNnNMdMzHw/cGWAaExbQTqNEzzsPL0MPmilnhyBmjq37ri2z/JUY0Gh\nXWzBhjvmApfcWjQ+mO4dH4AgnQKBgQDH9VDg2DEsl69AGPE8DAoS9WUhSQW6A8gU\nDjZGF9PlrjGJdsCT2giBbooxEIIMiJUD+/TWZd2tCqlTN4hS9Lgv6XNwmAK2Xr2z\nceQH0BmF60+UVJrcpx2/NcMwlmtbJkaJeExJoMN7iZ8cDlIz4URryvFqvEMb3bRJ\n/tC1LtgbfQKBgC3ZZAcKBTw79RUeMX2rTVmU7vkMUGQZHiyI169V9G1ruJv7KmYm\nu9uSWq2+EMfKWa7WbCBt/vxd2ekl87vH43fSAgynKQUycWfbuXDPpX7XrsBIyp43\nPD6zcL+bzt2fOW6Du7DMWDgoFg4y0I7vmA+ZqQ4AXYcWdK3EhoXqTirxAoGBAIMy\nOjbMorcXby0nMGCtpY565DfKqa86+/Psvz+OMsHoYShIemKIFDyYQqOeqTWACAXt\nMt/ZRnFbJW4saY3Ec3U8PzoJAv6VevJaL7vQlm5/zl8Mg+9y1tm2dLNUfmv32SAp\nhiRpDtnnmjXWT6kqjLINHgliLMYD2V8TiezXJ4QhAoGAFhYDS/55E/rh+H0jmnxK\nWcBlS+P5DJLK/DL5pDeJbKBWzLasyfiyuEtUdw7mr9gWmYMbHDTJYy6i8o82D4F4\ngueIHnWzcTDxo9DUi+aaVulLyVsrdnYMPUqb5l10IV7lHITl/m3jwVBBRfN/e79Q\nReXjisUUkE7xDHTyMb+5a2g=\n-----END PRIVATE KEY-----\n",
+  "client_email": "auto-update-macroindicators@update-macro-indicators.iam.gserviceaccount.com",
+  "client_id": "113748594964737913881",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/auto-update-macroindicators%40update-macro-indicators.iam.gserviceaccount.com"
+}

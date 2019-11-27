@@ -1,0 +1,14 @@
+{
+    "query": [{
+        "code": "Tid",
+        "selection": {
+            "filter": "top",
+            "values": [
+                "300"
+            ]
+        }
+    }],
+    "response": {
+        "format": "csv"
+    }
+}

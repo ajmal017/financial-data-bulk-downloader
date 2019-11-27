@@ -1,0 +1,15 @@
+https://www.quandl.com/api/v3/datasets/CHRIS/CME_HG6.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_B13.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_T1.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_IW2.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_KC1.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_IS2.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_ICN2.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_ICN2.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_ICN1.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/CME_RR3.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/CME_GC6.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/CME_TIO4.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/SGX_FEF2.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/ODA/PALUM_USD.csv?api_key=VisDzHjR9F8hyHG35baj
+https://www.quandl.com/api/v3/datasets/CHRIS/ICE_G6.csv?api_key=VisDzHjR9F8hyHG35baj
